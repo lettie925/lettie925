@@ -1,4 +1,4 @@
-### Hi there 👋
+### ☁️ Hi there (▰˘◡˘▰) ☁️
 
 <!--
 **lettie925/lettie925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning JavaScript
+👩🏻‍💻 How to reach me: lelegalindo925@gmail.com
+💛 Fun fact: My favorite music artist is Phoebe Bridgers. 
