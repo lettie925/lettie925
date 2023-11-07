@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning Java
 
-☁️ How to reach me: lelegalindo925@gmail.com
-
 💛 Fun fact: My favorite music artist is Phoebe Bridgers. 
