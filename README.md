@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java and SQL
 
 💛 Fun fact: My favorite music artist is Phoebe Bridgers. 
