@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Java and SQL
+🌱 I’m currently working on a Book app that Readers will be able to use to track books they own, want, loved, hated, reviewed, etc! :) 
 
 💛 Fun fact: My favorite music artist is Phoebe Bridgers. 
