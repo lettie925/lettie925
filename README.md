@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lettie</h1>
 <h3 align="center">A passionate junior software developer from Las Vegas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lele925&label=Profile%20views&color=0e75b6&style=flat" alt="lele925" /> </p>
-
 - 🔭 I’m currently working on [a Book Tracking App](https://github.com/lettie925/Books)
 
 - 💬 Ask me about **the project I am working on! :)**
