@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lettie</h1>
 <h3 align="center">A passionate junior software developer from Las Vegas</h3>
 
-- 🔭 I’m currently learning Spring Security
+- 🔭 I’m currently working on a Book Manager App
 
 - 💬 Ask me about **the project I am working on! :)**
 
