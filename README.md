@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on a Book Manager App
 
+- 🌱 I’m currently learning C++
+
 - 💬 Ask me about **the project I am working on! :)**
 
 - 📫 How to reach me **lelegalindo925@gmail.com**
