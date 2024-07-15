@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lettie</h1>
 <h3 align="center">A passionate junior software developer from Las Vegas</h3>
 
-- 🔭 I’m currently working on a Book Manager App
-
-- 🌱 I’m currently learning C++
-
 - 💬 Ask me about **the project I am working on! :)**
 
 - 📫 How to reach me **lelegalindo925@gmail.com**
